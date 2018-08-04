@@ -18,6 +18,10 @@ apt：dpkg的前端程序(类似yum),用来自动解决dpkg的依赖关系问题
     - 卸载软件： ```apt-get remove pkg```
     - 升级软件：
     - 查询软件：
+        - 查询软件包信息 ```apt-cache show pkg```
+        - 查询文件归属 ```apt-file search filename```
+        - 查询系统中的包 ```dpkg -I```
+        - 查询软件包所含文件 ```apt-file pkg```
     
 
 rpm:简化开源软件的安装和管理,用在redhat, centos

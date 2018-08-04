@@ -8,8 +8,8 @@ dpkg(deb): 类似(rpm)安装和管理各种软件，主要在debian, ubuntu
     - 升级软件 
     - 查询软件 
         - 查询软件包信息 ```dpkg --status pkg, dpkg --info pkgname.deb```
-        - 查询文件归属 ```dpkg ```
-        - 查询系统中的包 
+        - 查询文件归属 ```dpkg --search filename```
+        - 查询系统中的包  ```dpkg -I```
         - 查询软件包所含文件 ```dpkg --listfiles pkgname, dpkg --contents pkgname.deb```
     
 apt：dpkg的前端程序(类似yum),用来自动解决dpkg的依赖关系问题

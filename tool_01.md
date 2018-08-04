@@ -16,6 +16,7 @@ yum: RPM的前端程序，用来自动解决(通过仓库repo)RPM的依赖关系
 - YUM仓库
     - 仓库的配置文件： ```/etc/yum.repos.d/```目录下以```.repo```结尾
     - 配置YUM源(国内)
+    - 创建YUM仓库
 - YUM基本命令
     - 安装软件  ```yum install software```
     - 卸载软件   ```yum remove software```

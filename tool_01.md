@@ -13,7 +13,12 @@ dpkg(deb): 类似(rpm)安装和管理各种软件，主要在debian, ubuntu
         - 查询软件包所含文件 ```dpkg --listfiles pkgname, dpkg --contents pkgname.deb```
     
 apt：dpkg的前端程序(类似yum),用来自动解决dpkg的依赖关系问题
-
+- apt基本命令：
+    - 安装软件：
+    - 卸载软件：
+    - 升级软件：
+    - 查询软件：
+    
 
 rpm:简化开源软件的安装和管理,用在redhat, centos
 - rpm基本命令：

@@ -13,7 +13,9 @@ dpkg(deb): 类似(rpm)安装和管理各种软件，主要在debian, ubuntu
         - 查询软件包所含文件 ```dpkg --listfiles pkgname, dpkg --contents pkgname.deb```
     
 apt：dpkg的前端程序(类似yum),用来自动解决dpkg的依赖关系问题
-- apt基本命令：
+- APT仓库：
+    - 仓库的配置文件： /etc/apt/sources.list目录下
+- APT基本命令：
     - 安装软件：```apt-get install pkg``
     - 卸载软件： ```apt-get remove pkg```
     - 升级软件：

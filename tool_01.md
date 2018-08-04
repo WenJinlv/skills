@@ -1,7 +1,8 @@
+git：开发软件的版本维护工具
+npm:
 dpkg(deb): 类似(rpm)安装和管理各种软件，主要在debian, ubuntu 
 apt：dpkg的前端程序,用来自动解决dpkg的依赖关系问题
-git：开发软件的版本维护工具
-npm: 
+
 
 rpm:简化开源软件的安装和管理,用在redhat, centos
 - rpm基本命令：

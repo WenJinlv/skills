@@ -1,8 +1,7 @@
 # 软件安装和管理: dpkg, apt, rpm, yum, npm
 # 开发软件的版本维护工具： git
 
-## npm:
-##dpkg, apt
+
 **dpkg(deb): 类似(rpm)安装和管理各种软件，主要在debian, ubuntu **
 - dpkg基本命令：
     - 安装软件 ```dpkg -i pkgname.deb```
@@ -27,7 +26,7 @@
         - 查询系统中的包 ```apt-cahce pkgnames```
         - 查询软件包所含文件 ```apt-file list pkg```
     
-#rpm, yum
+
 **rpm:简化开源软件的安装和管理,用在redhat, centos**
 - rpm基本命令：
     - 安装软件 ```rpm -i software.rpm```

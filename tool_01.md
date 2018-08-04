@@ -7,7 +7,7 @@ dpkg(deb): 类似(rpm)安装和管理各种软件，主要在debian, ubuntu
     - 卸载软件 ```dpkg -r pkgname```
     - 升级软件 
     - 查询软件 
-        - 查询软件包信息 ```dpkg --info pkgname.deb, dpkg --status pkg```
+        - 查询软件包信息 ```dpkg --status pkg, dpkg --info pkgname.deb```
         - 查询文件归属 ```dpkg ```
         - 查询系统中的包 
         - 查询软件包所含文件 ```dpkg --listfiles pkgname, dpkg --contents pkgname.deb```

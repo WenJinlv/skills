@@ -1,3 +1,6 @@
+软件安装和管理: dpkg, apt, rpm, yum, npm
+软件版本维护： git
+
 #git：开发软件的版本维护工具
 #npm:
 #dpkg, apt

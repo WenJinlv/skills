@@ -1,8 +1,7 @@
 # 软件安装和管理: dpkg, apt, rpm, yum, npm
 # 开发软件的版本维护工具： git
 
-
-**dpkg(deb): 类似(rpm)安装和管理各种软件，主要在debian, ubuntu **
+**dpkg(deb): 类似(rpm)安装和管理各种软件，主要在debian, ubuntu**
 - dpkg基本命令：
     - 安装软件 ```dpkg -i pkgname.deb```
     - 卸载软件 ```dpkg -r pkgname```
@@ -37,7 +36,7 @@
         - 查询已安装   ``rpm -qa``` (-a(all) -f(filename) -i(info) -I(include包含的文件) 
         - 查询未安装    -p(查询未安装rpm文件))
 
-**yum: RPM的前端程序，用来自动解决(通过仓库repo)RPM的依赖关系问题    **
+**yum: RPM的前端程序，用来自动解决(通过仓库repo)RPM的依赖关系问题**
 - YUM仓库
     - 仓库的配置文件： ```/etc/yum.repos.d/```目录下以```.repo```结尾
     - 配置YUM源(国内)

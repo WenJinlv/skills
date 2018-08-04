@@ -13,3 +13,7 @@ rpm基本命令：
 yum: RPM的前端程序，用来自动解决(通过仓库repo)RPM的依赖关系问题    
 - YUM仓库
     - 仓库的配置文件： ```/etc/yum.repos.d/```目录下以```.repo```结尾
+- YUM基本命令
+    - 安装软件  ```yum install software```
+    - 卸载软件   ```yum remove software```
+    - 升级软件    ```yum update software```

@@ -8,5 +8,7 @@ rpm基本命令：
 - 卸载软件 ```rpm -e software```
 - 升级形式安装  ```rpm -U software-new.rpm```
 - 通过http, ftp协议安装 ```rpm -ivh http://software.rpm```
+- 查询软件 ``rpm -qa```  (-a(all) -f(filename) -i(info) -I(include包含的文件) -p(rpm文件))
+
 
     

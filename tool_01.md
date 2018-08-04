@@ -1,5 +1,5 @@
-dpkg(deb): 
-apt：安装和管理各种软件，主要在debian, ubuntu linux系统中<br>
+dpkg(deb): 类似(rpm)安装和管理各种软件，主要在debian, ubuntu linux系统中
+apt：
 git：开发软件的版本维护工具
 npm: 
 

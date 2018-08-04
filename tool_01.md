@@ -14,8 +14,8 @@ dpkg(deb): 类似(rpm)安装和管理各种软件，主要在debian, ubuntu
     
 apt：dpkg的前端程序(类似yum),用来自动解决dpkg的依赖关系问题
 - apt基本命令：
-    - 安装软件：
-    - 卸载软件：
+    - 安装软件：```apt-get install pkg``
+    - 卸载软件： ```apt-get remove pkg```
     - 升级软件：
     - 查询软件：
     

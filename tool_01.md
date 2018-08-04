@@ -2,7 +2,11 @@ git：开发软件的版本维护工具
 npm:
 
 dpkg(deb): 类似(rpm)安装和管理各种软件，主要在debian, ubuntu 
-
+- dpkg基本命令：
+    - 安装软件 ```dpkg -i pkgname.deb```
+    - 卸载软件
+    - 升级软件
+    
 apt：dpkg的前端程序(类似yum),用来自动解决dpkg的依赖关系问题
 
 

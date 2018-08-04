@@ -4,8 +4,11 @@ npm:
 dpkg(deb): 类似(rpm)安装和管理各种软件，主要在debian, ubuntu 
 - dpkg基本命令：
     - 安装软件 ```dpkg -i pkgname.deb```
-    - 卸载软件
-    - 升级软件
+    - 卸载软件 ```dpkg -r pkgname```
+    - 升级软件 
+    - 查询软件 
+        - 查询软件包信息 ```dpkg --info pkgname.deb```
+        - 查询软件包所含文件 ```dpkg --status pkg```
     
 apt：dpkg的前端程序(类似yum),用来自动解决dpkg的依赖关系问题
 

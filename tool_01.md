@@ -10,7 +10,7 @@ rpm:简化开源软件的安装和管理,用在redhat, centos
     - 通过http, ftp协议安装 ```rpm -ivh http://software.rpm```
     - 查询软件 
         - 查询已安装   ``rpm -qa``` (-a(all) -f(filename) -i(info) -I(include包含的文件) 
-        - 查询未安装   -p(查询未安装rpm文件))
+        - 查询未安装    -p(查询未安装rpm文件))
 
 yum: RPM的前端程序，用来自动解决(通过仓库repo)RPM的依赖关系问题    
 - YUM仓库

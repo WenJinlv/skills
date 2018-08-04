@@ -1,0 +1,28 @@
+{
+    "plugins": ["donate",
+                "edit-link",
+                 "github-buttons"
+      ],
+    "pluginsConfig": {
+        "donate": {
+          "wechat": "例：/images/qr.png",
+          "alipay": "http://blog.willin.wang/static/images/qr.png",
+          "title": "",
+          "button": "打赏",
+          "alipayText": "支付宝捐赠",
+          "wechatText": "微信捐赠"
+        },
+         "edit-link": {
+                "base": "https://github.com/wenjinlv",
+                "label": "Edit This Page"
+        },
+        "github-buttons": {
+      "buttons": [{
+        "user": "wenjinlv",
+        "repo": "",
+        "type": "star",
+        "size": "small"
+      }]
+    }
+  }
+}

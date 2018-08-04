@@ -1,4 +1,4 @@
-# 软件安装和管理: dpkg, apt, rpm, yum, npm
+# 软件安装和管理: dpkg, apt, rpm, yum, npm, conda
 # 开发软件的版本维护工具： git
 
 **dpkg(deb): 类似(rpm)安装和管理各种软件，主要在debian, ubuntu**

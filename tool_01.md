@@ -20,7 +20,7 @@ apt：dpkg的前端程序(类似yum),用来自动解决dpkg的依赖关系问题
     - 查询软件：
         - 查询软件包信息 ```apt-cache show pkg```
         - 查询文件归属 ```apt-file search filename```
-        - 查询系统中的包 ```dpkg -I```
+        - 查询系统中的包 ```apt-cahce pkgnames```
         - 查询软件包所含文件 ```apt-file list pkg```
     
 

@@ -11,3 +11,5 @@ rpm基本命令：
 - 查询软件 ``rpm -qa```   (-a(all) -f(filename) -i(info) -I(include包含的文件) -p(查询未安装rpm文件))
 
 yum: RPM的前端程序，用来自动解决(通过仓库repo)RPM的依赖关系问题    
+- YUM仓库
+    - 仓库的配置文件 /etc/yum.repos.d/目录下

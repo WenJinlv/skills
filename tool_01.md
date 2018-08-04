@@ -21,5 +21,5 @@ yum: RPM的前端程序，用来自动解决(通过仓库repo)RPM的依赖关系
     - 卸载软件   ```yum remove software```
     - 升级软件    ```yum update software```
     - 查询软件    
-        - 查询已安装
-        - 查询未安装 
+        - 查询已安装 ```yum list, yum info packagename```
+        - 查询未安装  ```yum search keyword```

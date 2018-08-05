@@ -15,7 +15,7 @@
   * [python](第二章/python.md)
   * [c++](第二章/cpp.md)
 
-* [设计模式](design_pattern.md)
+* [设计模式](第三章/design_pattern.md)
 
 * [架构模式](README.md)
 * [Openfoam](https://github.com/OpenFOAM/OpenFOAM-5.x)

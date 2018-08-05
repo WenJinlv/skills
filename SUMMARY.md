@@ -1,6 +1,6 @@
 # Summary
 
-* [介绍](README.md)
+* [介绍](SUMMARY.md)
 * [七类工具](第一章/README.md)
   * [系统维护工具](第一章/tool_01.md)
   * [源码阅读与编辑工具](第一章/tool_02.md)

@@ -17,8 +17,7 @@
 
 * [抽象思维](第三章/README.md)
   * [设计模式](第三章/design_pattern.md)
-
-* [架构模式](README.md)
+  * [架构模式](第三章/README.md)
 * [Openfoam](https://github.com/OpenFOAM/OpenFOAM-5.x)
 * [英语](english.md)
 

@@ -6,9 +6,6 @@
 [baidu](https://www.baidu.com)
 
 
-####gitbook
-<iframe width="50%" height="%50" src="https://www.youtube.com/embed/8_cjpylTQKc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 ##设计模式
 <iframe width="50%" height="%50" src="//player.bilibili.com/player.html?aid=24176315&cid=40522543&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 

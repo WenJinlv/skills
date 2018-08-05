@@ -19,6 +19,7 @@
   * [架构模式](第三章/README.md)
 
 * [底层思维](第四章/README.md)
+ * [编译器](第四章/compliers.md)
 
 * [Openfoam](https://github.com/OpenFOAM/OpenFOAM-5.x)
 * [英语](english.md)

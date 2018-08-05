@@ -12,8 +12,8 @@
 
 * [编程语言](README.md)
 
-  * [python](python.md)
-  * [c++](cpp.md)
+  * [python](第二章/python.md)
+  * [c++](第二章/cpp.md)
 
 * [设计模式](design_pattern.md)
 

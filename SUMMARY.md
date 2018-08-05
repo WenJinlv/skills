@@ -15,6 +15,9 @@
   * [python](第二章/python.md)
   * [c++](第二章/cpp.md)
 
+* [抽象思维](第三章/design_pattern.md)
+
+
 * [设计模式](第三章/design_pattern.md)
 
 * [架构模式](README.md)

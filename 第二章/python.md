@@ -1,8 +1,13 @@
 #python 
 
 代码段 <br>
+>> python 装饰器
 ```
-python
+def wrapper(func):
+    def inner():
+        something...
+        func()
+    return inner
 ```
 
 这是行内代码 `import numpy as np`

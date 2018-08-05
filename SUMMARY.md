@@ -20,6 +20,7 @@
 
 * [底层思维](第四章/README.md)
  * [编译器](第四章/compliers.md)
+ * [操作系统](第四章/operator_system.md)
 
 * [Openfoam](https://github.com/OpenFOAM/OpenFOAM-5.x)
 * [英语](Appendix/english.md)

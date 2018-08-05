@@ -10,7 +10,7 @@
   * [markdown文本格式的编写和阅读工具](第一章/tool_05.md)
   * [命令行shell](第一章/tool_06.md)
 
-* [编程语言](README.md)
+* [编程语言](第二章/README.md)
 
   * [python](第二章/python.md)
   * [c++](第二章/cpp.md)

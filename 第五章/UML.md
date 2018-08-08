@@ -1,7 +1,7 @@
 ####UML工具
     * StarUML
-    * Rose
-    * Rational Rose2003
+    * Rose, Rational Rose2003
+    * EA
     
 ####UML类图种类
 * 对象

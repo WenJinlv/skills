@@ -1,4 +1,4 @@
-![](/assets/GNU开发环境基础.xmind)
+![](/assets/GNU开发工具.png)
 gcc：C语言编译器 <br>
 gdb：执行程序调试器 <br>
 ld：链接器 <br>

@@ -1,5 +1,7 @@
 #Python 
 ####python基本语法
+* [基本语法](Python/Basic-Syntax.md)
+
 ####python数据可视化分析
 * [matplotlib库](Python/Data-Visualization.md)
 

@@ -6,7 +6,7 @@
 * [网络爬虫](Python/Web-Crawler.md)
 
 ####数据库编程
-* [数据库](Python/Data-Visualization.md)
+* [数据库](Python/Database.md)
 
 ####数据可视化分析
 * [数据可视化](Python/Data-Visualization.md)

@@ -1,10 +1,12 @@
 #Python 
-####python基本语法
+####基本语法
 * [基本语法](Python/Basic-Syntax.md)
 
-####python数据可视化分析
+####数据可视化分析
 * [matplotlib库](Python/Data-Visualization.md)
 
+####命令行库
+* [Command-line UIs库](Python/Command-line-UIs.md)
 
 代码段 <br>
 >> python 装饰器

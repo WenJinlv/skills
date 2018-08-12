@@ -1,3 +1,4 @@
+![](/assets/python基础知识.jpg)
 代码段
 >> python 装饰器
 ```

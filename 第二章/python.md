@@ -8,6 +8,9 @@
 ####数据库编程
 * [数据库](Python/Database.md)
 
+####数据挖掘
+* [数据库](Python/Data-Mining.md)
+
 ####数据可视化分析
 * [数据可视化](Python/Data-Visualization.md)
 

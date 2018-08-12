@@ -2,6 +2,9 @@
 ####基本语法
 * [基本语法](Python/Basic-Syntax.md)
 
+####网络爬虫
+* [matplotlib库](Python/Data-Visualization.md)
+
 ####数据库编程
 * [matplotlib库](Python/Data-Visualization.md)
 

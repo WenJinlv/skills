@@ -6,10 +6,10 @@
 * [网络爬虫](Python/Web-Crawler.md)
 
 ####数据库编程
-* [matplotlib库](Python/Data-Visualization.md)
+* [数据库](Python/Data-Visualization.md)
 
 ####数据可视化分析
-* [matplotlib库](Python/Data-Visualization.md)
+* [数据可视化](Python/Data-Visualization.md)
 
 ####命令行库
 * [Command-line UIs库](Python/Command-line-UIs.md)

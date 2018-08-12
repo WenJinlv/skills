@@ -1,6 +1,6 @@
 #Python 
 ####python数据可视化分析
-* [matplotlib库](Python/Data-Visualization)
+* [matplotlib库](Python/Data-Visualization.md)
 
 
 代码段 <br>

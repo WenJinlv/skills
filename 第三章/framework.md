@@ -1,5 +1,6 @@
 ##框架模式
-MVC, MTV, MVP, CBD, ORM等
+> MVC, MTV, MVP, CBD, ORM等
+
 ##框架
 C++语言的**QT, MFC, gtk**
 Python语言的**django**(MTV模式)

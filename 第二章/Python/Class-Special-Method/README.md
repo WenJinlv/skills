@@ -1,3 +1,4 @@
- * [\__call__](__call__.md)
- * [\__new__](__call__.md)
- * [\__super__](__call__.md)
+ * [\_\_call\_\_](__call__.md)
+ * [\_\_new\_\_](__call__.md)
+ * [\_\_super\_\_](__call__.md)
+ * [\_\_dict\_\_](__dict__.md)

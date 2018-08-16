@@ -15,4 +15,3 @@ def wrapper(func):
 
 <font color="red">红色文字</font>
 * [函数对象](Python/Class-Special-Method/README.md)
-    * [__call__](__call__.md)

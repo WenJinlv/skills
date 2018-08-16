@@ -2,7 +2,8 @@
     "plugins": ["donate",
                 "edit-link",
                  "github-buttons",
-		 ["prism", "-highlight"]
+		 "prism", 
+		 "-highlight"
       ],
     "pluginsConfig": {
         "donate": {

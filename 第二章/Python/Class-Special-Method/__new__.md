@@ -1,0 +1,1 @@
+if \_\_new\_\_() does not return an instance of _cls_,  then the new instance's \_\_init\_\_() method will not be invoked.

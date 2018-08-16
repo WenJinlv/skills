@@ -31,7 +31,7 @@
     		"css": [
 			"prismjs/themes/prism-dark.css"
 		]
-    	}
+    	},
         "expandable-chapters": {}
   }
 }

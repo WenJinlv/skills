@@ -6,6 +6,7 @@
             print("__call__ is called.")
     
     a = A()
-    a() 
-    # a() <==> a.__call__()
+    a()   # a() <==> a.__call__()
+
+    
 ```

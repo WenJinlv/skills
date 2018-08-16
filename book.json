@@ -1,7 +1,8 @@
 {
     "plugins": ["donate",
                 "edit-link",
-                 "github-buttons"
+                 "github-buttons",
+		 ["prism", "-highlight"]
       ],
     "pluginsConfig": {
         "donate": {
@@ -17,12 +18,17 @@
                 "label": "Edit This Page"
         },
         "github-buttons": {
-      "buttons": [{
-        "user": "wenjinlv",
-        "repo": "",
-        "type": "star",
-        "size": "small"
-      }]
-    }
+      		"buttons": [{
+			"user": "wenjinlv",
+			"repo": "",
+			"type": "star",
+			"size": "small"
+     		 }]
+    	}, 
+    	"prism": {
+    		"css": [
+			"prismjs/themes/prism-solarizedlight.css"
+		]
+    	}
   }
 }

@@ -2,3 +2,4 @@
  * [\_\_new\_\_](__call__.md)
  * [\_\_super\_\_](__call__.md)
  * [\_\_dict\_\_](__dict__.md)
+ * [metaclass](https://segmentfault.com/a/1190000011447445)

@@ -3,7 +3,8 @@
                 "edit-link",
                  "github-buttons",
 		 "prism", 
-		 "-highlight"
+		 "-highlight",
+		 "expandable-chapters"
       ],
     "pluginsConfig": {
         "donate": {

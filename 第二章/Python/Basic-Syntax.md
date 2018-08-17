@@ -15,3 +15,4 @@ def wrapper(func):
 
 <font color="red">红色文字</font>
 * [函数对象](Class-Special-Method/README.md)
+* itertools库--返回各种迭代器对象。

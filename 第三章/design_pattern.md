@@ -4,3 +4,5 @@ src="//player.bilibili.com/player.html?aid=24176315&cid=40522543&page=1" scrolli
 ![](/assets/面向对象设计原则.png)
 ***
 ![](/assets/设计模式.png)
+***
+![](/assets/重构的关键技法.png)

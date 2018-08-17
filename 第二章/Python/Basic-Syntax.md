@@ -17,3 +17,4 @@ def wrapper(func):
 * [函数对象](Class-Special-Method/README.md)
 * itertools库
     * 返回各种迭代器对象。
+    * itertools.chain --连接多个序列或迭代器。

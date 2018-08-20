@@ -18,3 +18,5 @@ def wrapper(func):
 * itertools库
     * 返回各种迭代器对象。
     * itertools.chain --连接多个序列或迭代器。
+* abc模块  
+    * 抽象基类 **a**bstract **b**ase **c**lass
